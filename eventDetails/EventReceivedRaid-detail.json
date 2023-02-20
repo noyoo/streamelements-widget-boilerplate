@@ -1,0 +1,42 @@
+{
+    "listener": "raid-latest",
+    "event": {
+        "type": "raid",
+        "name": "Nicky",
+        "amount": 14,
+        "count": 14,
+        "items": [
+            {
+                "name": "Shirt",
+                "price": 34,
+                "quantity": 1
+            },
+            {
+                "name": "Hat",
+                "price": 43,
+                "quantity": 3
+            },
+            {
+                "name": "Mug",
+                "price": 25,
+                "quantity": 1
+            },
+            {
+                "name": "Hoodie",
+                "price": 30,
+                "quantity": 3
+            },
+            {
+                "name": "Protein powder",
+                "price": 31,
+                "quantity": 1
+            }
+        ],
+        "tier": "1000",
+        "month": "June",
+        "isTest": true,
+        "_id": "63f3a5698b90b4db3e90df3c",
+        "sessionTop": false,
+        "originalEventName": "raid-latest"
+    }
+}

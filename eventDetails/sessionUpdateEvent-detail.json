@@ -1,0 +1,636 @@
+{
+    "session": {
+        "follower-latest": {
+            "name": "aLatestFollower",
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false,
+            "type": "follower",
+            "originalEventName": "follower-latest"
+        },
+        "follower-week": {
+            "count": 359,
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false
+        },
+        "follower-month": {
+            "count": 2695,
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false
+        },
+        "follower-goal": {
+            "amount": 138640,
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false
+        },
+        "follower-total": {
+            "count": 113212,
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false
+        },
+        "subscriber-latest": {
+            "type": "subscriber",
+            "name": "aLatestSubscriber",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false,
+            "originalEventName": "subscriber-latest"
+        },
+        "subscriber-new-latest": {
+            "name": "aLatestNewSubscriber",
+            "amount": 1,
+            "message": ""
+        },
+        "subscriber-resub-latest": {
+            "name": "aLatestResub",
+            "amount": 25,
+            "message": ""
+        },
+        "subscriber-gifted-latest": {
+            "name": "aLatestGiftSub",
+            "amount": 1,
+            "message": "AvoNerOOO gifted a Tier 1 sub to xeroth11!",
+            "tier": "1000",
+            "sender": "AvoNerOOO"
+        },
+        "subscriber-week": {
+            "count": 125
+        },
+        "subscriber-month": {
+            "count": 416
+        },
+        "subscriber-goal": {
+            "type": "subscriber",
+            "name": "Francine",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false
+        },
+        "subscriber-total": {
+            "type": "subscriber",
+            "name": "Francine",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false
+        },
+        "subscriber-points": {
+            "type": "subscriber",
+            "name": "Francine",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false
+        },
+        "subscriber-alltime-gifter": {
+            "name": "aAlltimeGifter",
+            "amount": 328
+        },
+        "host-latest": {
+            "name": "aLatestHoster",
+            "amount": 1
+        },
+        "raid-latest": {
+            "name": "aLatestRaider",
+            "amount": 36
+        },
+        "cheer-week": {
+            "amount": 430
+        },
+        "cheer-month": {
+            "amount": 1195
+        },
+        "cheer-total": {
+            "amount": 374011
+        },
+        "cheer-count": {
+            "count": 374011
+        },
+        "cheer-goal": {
+            "amount": 374011
+        },
+        "cheer-latest": {
+            "name": "elo_lubie_lacki",
+            "amount": 10,
+            "message": "Cheer10 /.__./"
+        },
+        "tip-latest": {
+            "name": "Anonymous",
+            "amount": 1,
+            "message": ""
+        },
+        "tip-week": {
+            "amount": 0
+        },
+        "tip-month": {
+            "amount": 0
+        },
+        "tip-total": {
+            "amount": 268.21
+        },
+        "tip-goal": {
+            "amount": 268.21
+        },
+        "merch-goal-orders": {
+            "amount": 0
+        },
+        "merch-goal-items": {
+            "amount": 0
+        },
+        "merch-goal-total": {
+            "amount": 0
+        },
+        "follower-recent": [
+            {
+                "name": "aRecentFollower",
+                "activityId": "activityID",
+                "_id": "activityID",
+                "sessionTop": false,
+                "type": "follower",
+                "originalEventName": "follower-latest"
+            },
+            {
+                "name": "aNonLatestFollower",
+                "createdAt": "2023-02-20T13:56:19.354Z",
+                "type": "follower"
+            }
+        ],
+        "subscriber-recent": [
+            {
+                "type": "subscriber",
+                "name": "aRecentSubscriber",
+                "amount": 35,
+                "count": 29,
+                "tier": 3000,
+                "isTest": true
+            }
+        ],
+        "host-recent": [
+            {
+                "name": "aRecentHost",
+                "amount": 1,
+                "createdAt": "2022-09-16T12:23:37.682Z",
+                "type": "host"
+            }
+        ],
+        "raid-recent": [
+            {
+                "name": "aRecentRaider",
+                "amount": 36,
+                "createdAt": "2023-02-19T20:01:18.141Z",
+                "type": "raid"
+            }
+        ],
+        "cheer-recent": [
+            {
+                "name": "aRecentCheerer",
+                "amount": 10,
+                "createdAt": "2023-02-19T21:55:55.618Z",
+                "type": "cheer"
+            }
+        ],
+        "tip-recent": [
+            {
+                "name": "aRecentTipper",
+                "amount": 1,
+                "createdAt": "2022-03-30T21:10:15.773Z",
+                "type": "tip"
+            }
+        ],
+        "merch-recent": [],
+        "cheer-alltime-top-donation": {
+            "name": "aAllTimeTopSingleCheer",
+            "amount": 10000
+        },
+        "cheer-alltime-top-donator": {
+            "name": "aAlltimeTopCheerer",
+            "amount": 55210
+        },
+        "cheer-monthly-top-donation": {
+            "name": "aMonthlyTopSingleCheer",
+            "amount": 300
+        },
+        "cheer-monthly-top-donator": {
+            "name": "aMonthlyTopCheerer",
+            "amount": 300
+        },
+        "tip-alltime-top-donation": {
+            "name": "aAllTimeTopSingleTip",
+            "amount": 70
+        },
+        "tip-alltime-top-donator": {
+            "name": "aAllTimeTopTipper",
+            "amount": 70
+        },
+        "merch-latest": {
+            "amount": 0,
+            "items": [],
+            "name": ""
+        },
+        "purchase-latest": {
+            "items": [],
+            "name": "",
+            "amount": 0,
+            "avatar": "",
+            "message": ""
+        },
+        "charityCampaignDonation-alltime-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-alltime-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-latest": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-monthly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-monthly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-recent": [],
+        "charityCampaignDonation-weekly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-weekly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-alltime-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-alltime-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-latest": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-monthly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-monthly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-recent": [],
+        "cheerPurchase-weekly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-weekly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-alltime-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-alltime-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-count": {
+            "count": 0
+        },
+        "superchat-goal": {
+            "amount": 0
+        },
+        "superchat-latest": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-month": {
+            "amount": 0
+        },
+        "superchat-monthly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-monthly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-recent": [],
+        "superchat-session": {
+            "amount": 0
+        },
+        "superchat-total": {
+            "amount": 0
+        },
+        "superchat-week": {
+            "amount": 0
+        },
+        "superchat-weekly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-weekly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-monthly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-monthly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-weekly-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-weekly-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheer-weekly-top-donation": {
+            "name": "n3m_666",
+            "amount": 300
+        },
+        "cheer-weekly-top-donator": {
+            "name": "n3m_666",
+            "amount": 300
+        },
+        "charityCampaignDonation-session-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "charityCampaignDonation-session-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheer-session": {
+            "amount": 0
+        },
+        "cheer-session-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheer-session-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-session-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "cheerPurchase-session-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "follower-session": {
+            "count": 5,
+            "activityId": "activityID",
+            "_id": "activityID",
+            "sessionTop": false
+        },
+        "subscriber-gifted-session": {
+            "count": 0
+        },
+        "subscriber-new-session": {
+            "count": 0
+        },
+        "subscriber-resub-session": {
+            "count": 0
+        },
+        "subscriber-session": {
+            "count": 0
+        },
+        "superchat-session-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "superchat-session-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-count": {
+            "count": 0
+        },
+        "tip-session": {
+            "amount": 0
+        },
+        "tip-session-top-donation": {
+            "amount": 0,
+            "name": ""
+        },
+        "tip-session-top-donator": {
+            "amount": 0,
+            "name": ""
+        },
+        "subscriber-count": {
+            "type": "subscriber",
+            "name": "Francine",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false
+        },
+        "subscriber-top": {
+            "type": "subscriber",
+            "name": "Francine",
+            "amount": 38,
+            "count": 38,
+            "items": [
+                {
+                    "name": "Shirt",
+                    "price": 34,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hat",
+                    "price": 23,
+                    "quantity": 1
+                },
+                {
+                    "name": "Mug",
+                    "price": 45,
+                    "quantity": 3
+                },
+                {
+                    "name": "Hoodie",
+                    "price": 4,
+                    "quantity": 1
+                },
+                {
+                    "name": "Protein powder",
+                    "price": 25,
+                    "quantity": 1
+                }
+            ],
+            "tier": "1000",
+            "month": "October",
+            "isTest": true,
+            "message": "Howdy, my name is Bill",
+            "sessionTop": false
+        }
+    }
+}

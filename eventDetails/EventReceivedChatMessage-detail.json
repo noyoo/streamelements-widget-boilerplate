@@ -1,0 +1,56 @@
+{
+    "listener": "message",
+    "event": {
+        "service": "twitch",
+        "data": {
+            "time": 1676915495944,
+            "tags": {
+                "badge-info": "subscriber/11",
+                "badges": "vip/1,subscriber/9,glhf-pledge/1",
+                "client-nonce": "1233345",
+                "color": "#1E90FF",
+                "display-name": "Brad",
+                "emotes": "",
+                "first-msg": "0",
+                "flags": "",
+                "id": "IDhere",
+                "mod": "0",
+                "returning-chatter": "0",
+                "room-id": "12333",
+                "subscriber": "1",
+                "tmi-sent-ts": "431242",
+                "turbo": "0",
+                "user-id": "1234",
+                "user-type": "",
+                "vip": "1"
+            },
+            "nick": "brad",
+            "userId": "1234",
+            "displayName": "BrAd",
+            "displayColor": "#1E90FF",
+            "badges": [
+                {
+                    "type": "vip",
+                    "version": "1",
+                    "url": "https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/3"
+                },
+                {
+                    "type": "subscriber",
+                    "version": "9",
+                    "url": "https://static-cdn.jtvnw.net/badges/v1/4e328697-6174-462e-a51e-7448e16b5e1c/3"
+                },
+                {
+                    "type": "glhf-pledge",
+                    "version": "1",
+                    "url": "https://static-cdn.jtvnw.net/badges/v1/3158e758-3cb4-43c5-94b3-7639810451c5/3"
+                }
+            ],
+            "channel": "someChannel",
+            "text": "hello",
+            "isAction": false,
+            "emotes": [],
+            "msgId": "bdb69db8-a221-4212-9bff-c0ab7f438176"
+        },
+        "renderedText": "hello"
+    }
+}

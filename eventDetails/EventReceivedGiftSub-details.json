@@ -1,0 +1,42 @@
+{
+    "listener": "subscriber-latest",
+    "event": {
+        "type": "subscriber",
+        "name": "Norry",
+        "amount": 1,
+        "count": 1,
+        "isTest": true,
+        "tier": "prime",
+        "gifted": true,
+        "bulkGifted": false,
+        "sender": "dot",
+        "items": [
+            {
+                "name": "Shirt",
+                "price": 19
+            },
+            {
+                "name": "Hat",
+                "price": 38
+            },
+            {
+                "name": "Mug",
+                "price": 49
+            },
+            {
+                "name": "Hoodie",
+                "price": 2
+            },
+            {
+                "name": "Protein powder",
+                "price": 26
+            }
+        ],
+        "subExtension": false,
+        "month": "January",
+        "message": "Do not fear a man that spams 1000 memes, instead fear a man that spams a meme 1000 times",
+        "_id": "63f3a5698b90b4db3e90df3c",
+        "sessionTop": false,
+        "originalEventName": "subscriber-latest"
+    }
+}

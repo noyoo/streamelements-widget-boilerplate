@@ -1,0 +1,41 @@
+{
+    "listener": "subscriber-latest",
+    "event": {
+        "type": "subscriber",
+        "name": "cook_97",
+        "amount": 1,
+        "count": 2,
+        "isTest": true,
+        "tier": "1000",
+        "gifted": true,
+        "sender": "Tiphanie",
+        "items": [
+            {
+                "name": "Shirt",
+                "price": 26
+            },
+            {
+                "name": "Hat",
+                "price": 15
+            },
+            {
+                "name": "Mug",
+                "price": 14
+            },
+            {
+                "name": "Hoodie",
+                "price": 30
+            },
+            {
+                "name": "Protein powder",
+                "price": 27
+            }
+        ],
+        "subExtension": false,
+        "month": "May",
+        "message": "Here you go",
+        "originalEventName": "subscriber-latest",
+        "isCommunityGift": true,
+        "playedAsCommunityGift": false
+    }
+}

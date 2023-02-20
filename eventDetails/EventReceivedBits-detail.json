@@ -1,0 +1,44 @@
+{
+    "listener": "cheer-latest",
+    "event": {
+        "type": "cheer",
+        "name": "Constantine",
+        "amount": 43,
+        "count": 43,
+        "items": [
+            {
+                "name": "Shirt",
+                "price": 46,
+                "quantity": 1
+            },
+            {
+                "name": "Hat",
+                "price": 32,
+                "quantity": 1
+            },
+            {
+                "name": "Mug",
+                "price": 21,
+                "quantity": 2
+            },
+            {
+                "name": "Hoodie",
+                "price": 48,
+                "quantity": 2
+            },
+            {
+                "name": "Protein powder",
+                "price": 46,
+                "quantity": 3
+            }
+        ],
+        "tier": "1000",
+        "month": "March",
+        "isTest": true,
+        "message": "notlikethis1 my swiftrage1 name trihard1 is doodlecheer1 Bill trihard1 vohiyo1 failfish1",
+        "tts": false,
+        "_id": "63f3b0d84a45862cab420cda",
+        "sessionTop": true,
+        "originalEventName": "cheer-latest"
+    }
+}

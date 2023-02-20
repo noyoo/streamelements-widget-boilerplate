@@ -1,0 +1,42 @@
+{
+    "listener": "follower-latest",
+    "event": {
+        "type": "follower",
+        "name": "Fae",
+        "amount": 41,
+        "count": 41,
+        "items": [
+            {
+                "name": "Shirt",
+                "price": 16,
+                "quantity": 2
+            },
+            {
+                "name": "Hat",
+                "price": 37,
+                "quantity": 3
+            },
+            {
+                "name": "Mug",
+                "price": 35,
+                "quantity": 3
+            },
+            {
+                "name": "Hoodie",
+                "price": 4,
+                "quantity": 2
+            },
+            {
+                "name": "Protein powder",
+                "price": 31,
+                "quantity": 3
+            }
+        ],
+        "tier": "1000",
+        "month": "January",
+        "isTest": true,
+        "_id": "63f3b4bec31f1cb1743f9420",
+        "sessionTop": false,
+        "originalEventName": "follower-latest"
+    }
+}
